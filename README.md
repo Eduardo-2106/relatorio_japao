@@ -27,6 +27,9 @@ Sistema web de compliance de TI para a JRC Brasil — gera e gerencia relatório
     </a>
 </div>
 
+## Vídeo de apresentação 
+
+[Apresentação do trabalho da matéria LABORATORIO DE DESENVOLVIMENTO DE SOFTWARE](https://youtu.be/rpEbIj-vLNQ)
 
 ## Problema
 
