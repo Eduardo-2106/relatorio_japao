@@ -3,7 +3,7 @@
 
 ## TRABALHO A4
 
-### Docuemntação
+### Documentação
 
 > **Universidade Veiga de Almeida**
 >
